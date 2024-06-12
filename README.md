@@ -1,7 +1,5 @@
 
-## Laravel Livewire Chat Course Demo App
-
-![./cover.jpeg](/cover.jpeg)
+## Real Time chat using laravel and livewire
 
 
 
@@ -16,5 +14,6 @@
 -   `php artisan key:generate`
 -   `npm install && npm run dev`
 -   `php artisan serve`
-
-then choose a user from the database and login.
+-   After login add friend to chat
+-   First add user to chat (http://localhost:8000/users) go to this url and add friend to chat
+-   see all chat on http://localhost:8000/chat
